@@ -8,6 +8,7 @@ public class CheckUtil {
 
     private static final String[] INVALID_NAMES = {"admin", "admins","adminstrator","adminstrators"};
 
+    
     /**
      * Check the name
      * @param value
